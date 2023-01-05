@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/ConnectionScene.unity
+    guid: cf1daa802511f1341801fee993c44c82
+  - enabled: 1
+    path: Assets/01.Scenes/LobbyScene_new.unity
+    guid: e1b89cd52b0634b41a1355fb09c34619
+  - enabled: 1
+    path: Assets/01.Scenes/CSJ/GatherScene_HDRP.unity
+    guid: f965c0e923907c74fb5b5bea8acc34b9
+  m_configObjects: {}

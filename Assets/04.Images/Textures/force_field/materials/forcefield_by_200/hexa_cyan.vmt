@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "forcefield_by_200/hexa_cyan"
+	"$translucent" 1
+	"Proxies"
+	{
+		"TextureScroll"
+			{
+			"Texturescrollvar" "$Basetexturetransform"
+			"Texturescrollrate" "0.1"
+			"Texturescrollangle" "45"
+			}
+	}
+}
